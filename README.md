@@ -1,7 +1,7 @@
 * [github README.md的使用手册](https://github.com/guodongxiaren/README#￦ﾖﾇ￦ﾜﾬ￥ﾝﾗ)
 * [hibernate注解开发](https://github.com/Moujianming/hibernate2)
 * [hibernate xml配置文件开发](https://github.com/Moujianming/hibernate)
-      两种开发的比较:
+>两种开发的比较:
       
       XML配置方式： 
       优：容易编辑，配置比较集中，方便修改，在大业务量的系统里面，通过xml配置会方便后人理解整个系统的架构，修改之后直接重启应用即可 
